@@ -13,8 +13,8 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
     <scm>
-        <developerConnection></developerConnection>
-        <url></url>
+        <developerConnection>scm:git:git@github.com:VeepinRaut/maven_test_initial_release.git</developerConnection>
+        <url>https://github.com/VeepinRaut/maven_test_initial_release</url>
         <tag>HEAD</tag>
     </scm>
     <build>
