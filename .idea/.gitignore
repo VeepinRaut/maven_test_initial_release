@@ -3,6 +3,12 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+/compiler.xml
+/encodings.xml
+/misc.xml
+/vcs.xml
+../.idea
+
 /dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
